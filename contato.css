@@ -375,4 +375,9 @@ footer{
         flex-direction: column;
         gap: 2rem;
     }
+    main h1{
+
+        text-align:justify;
+
+    }
 }
